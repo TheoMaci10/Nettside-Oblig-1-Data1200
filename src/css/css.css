@@ -1,3 +1,16 @@
-body{
-    background-color: orangered;
+nav {
+     background-color: #1a1a1a;
+     padding: 10px;
+     text-align: center;
+ }
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff6e09;
 }
