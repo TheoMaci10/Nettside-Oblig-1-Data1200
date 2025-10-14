@@ -32,7 +32,6 @@ nav a:hover {
 }
 
 .hero {
-    background-image: url("../../Resources/images/battlefield_hero.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
