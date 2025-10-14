@@ -30,7 +30,10 @@ nav a {
 nav a:hover {
     color: #ff6600;
 }
-
+.battlefield1_foto1 {
+    width:300px;
+    height:auto;
+}
 .hero {
     background-image: url("../../Resources/images/battlefield_hero.jpg");
     background-size: cover;
